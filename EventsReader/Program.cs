@@ -6,7 +6,7 @@ using Seq.Api;
 var connection = new SeqConnection("http://localhost:9090");
 
 var result = connection.Events.EnumerateAsync(
-    filter: "CorrelationId = '8c2c8da18bca48e584404190d0c5d394'",
+    filter: "CorrelationId = '3d2a3896e2104cdf845f76724610446f'",
     render: true,
     count: int.MaxValue);
 
