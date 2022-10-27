@@ -41,5 +41,5 @@ docker compose -f "docker-compose.yml" up -d
 
 ## Articles
 
-* [English]() (not ready yet)
+* [English](https://ivanyakimov.blogspot.com/2022/10/web-request-sequence-visualization.html)
 * [Russian]() (not ready yet)
